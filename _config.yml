@@ -1,0 +1,11 @@
+# Site settings
+title: Kevin Ferri
+email: kevinferri@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the description of the site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  kevinferri
+
+# Build settings
+markdown: kramdown
