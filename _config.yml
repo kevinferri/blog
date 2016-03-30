@@ -2,8 +2,8 @@ permalink: pretty
 
 # Setup
 title: Kevin Ferri
-tagline: 'Web Developer'
-description: 'The description of the site'
+tagline: Blog
+description: The description of the site
 url: http://lanyon.getpoole.com
 baseurl: ''
 paginate: 5
