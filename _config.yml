@@ -3,15 +3,14 @@ permalink: pretty
 # Setup
 title: Kevin Ferri
 tagline: Blog
-description: The description of the site
-url: http://lanyon.getpoole.com
+description: Powered by Jekyll.
+url: ''
 baseurl: ''
 paginate: 5
 
 # About/contact
 author:
   name: Kevin Ferri
-  url: https://twitter.com/ImFerri
   email: kevinferri@gmail.com
 
 # Custom vars
