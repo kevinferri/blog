@@ -45,6 +45,14 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title a {
   color: #505050;
 }
+.masthead-title a.icon.github {
+  display: inline-block;
+  font-size: 24px;
+  margin-left: 5px;
+}
+.masthead-title a.icon:hover {
+  text-decoration: none;
+}
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;

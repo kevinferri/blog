@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Some title
-tag: yo
 ---
 
 ## Heading
