@@ -5,7 +5,7 @@ title: Kevin Ferri
 tagline: Blog
 description: Powered by Jekyll.
 url: ''
-baseurl: 'http://kevinferri.github.io/blog'
+baseurl: ''
 paginate: 5
 
 # About/contact
