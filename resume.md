@@ -32,17 +32,18 @@ _Intern Software Developer_
 _Bachelor of Science in Informatics, Cognate in Computer Science, GPA: 3.6/4.0_
 
 **RELEVANT COURSEWORK**
-<br>
-* Data Structures and Algorithms
-* Software Systems
-* Discrete Structures in Computer Science
-* Senior Capstone: Individual development of a Software System
-* Finite Mathematics
-* Information Representation
-* Math Foundations in Informatics
-* Introduction to Computer Science
-* Human-Computer Interaction Design and Programming
-* Mastering the World Wide Web
+<ul>
+  <li>Data Structures and Algorithms</li>
+  <li>Software Systems</li>
+  <li>Discrete Structures in Computer Science</li>
+  <li>Senior Capstone: Individual development of a Software System</li>
+  <li>Finite Mathematics</li>
+  <li>Information Representation</li>
+  <li>Math Foundations in Informatics</li>
+  <li>Introduction to Computer Science</li>
+  <li>Human-Computer Interaction Design and Programming</li>
+  <li>Mastering the World Wide Web</li>
+</ul>
 
 <br>
 
