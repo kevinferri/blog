@@ -52,4 +52,3 @@ _Bachelor of Science in Informatics, Cognate in Computer Science, GPA: 3.6/4.0_
 * **Web Development:** HTML, CSS, JavaScript, Node.js, MongoDB, MySQL
 * **Frameworks/Libraries/Tools:** React, Express, SASS, Rails, Git, Gulp
 * **Languages:** Java, Ruby
-* **Methodologies:** Scrum
