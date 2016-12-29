@@ -32,6 +32,7 @@ _Intern Software Developer_
 _Bachelor of Science in Informatics, Cognate in Computer Science, GPA: 3.6/4.0_
 
 **RELEVANT COURSEWORK**
+<br>
 * Data Structures and Algorithms
 * Software Systems
 * Discrete Structures in Computer Science
