@@ -6,7 +6,11 @@ title: Resume
 ### WORK EXPERIENCE
 <hr>
 
-**APPBOY** April 2016 - present
+**Vimeo** May 2017 - present
+<br>
+_Front End Engineer_
+
+**APPBOY** April 2016 - April 2017
 <br>
 _Front End Developer_
 
