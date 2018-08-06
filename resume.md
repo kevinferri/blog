@@ -33,7 +33,7 @@ _Intern Software Developer_
 
 **INDIANA UNIVERSITY, SCHOOL OF INFORMATICS AND COMPUTING**
 <br>
-_Bachelor of Science in Informatics, Cognate in Computer Science, GPA: 3.6/4.0_
+_Bachelor of Science in Informatics, Cognate in Computer Science_
 
 **RELEVANT COURSEWORK**
 <ul>
@@ -53,6 +53,5 @@ _Bachelor of Science in Informatics, Cognate in Computer Science, GPA: 3.6/4.0_
 
 ### TECHNICAL SKILLS
 <hr>
-* **Web Development:** HTML, CSS, JavaScript, Node.js, MongoDB, MySQL
-* **Frameworks/Libraries/Tools:** React, Express, SASS, Rails, Git, Gulp
-* **Languages:** Java, Ruby
+* **Web Development:** JavaScript, TypeScript, React, Redux, Node.js, Express, Rails, MongoDB, MySQL
+* **Languages:** Java, Ruby, PHP
